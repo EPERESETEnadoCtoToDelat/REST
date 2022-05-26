@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B1c0Wph4ttPDx9XTEfAe0QIZnIFvn5QgCXIHmF37nBE=",
+  "Source": "Eldorado.WebApi",
+  "BasePath": "_content/Eldorado.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

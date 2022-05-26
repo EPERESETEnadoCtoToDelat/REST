@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F8FD4845-9AE7-483C-8942-6A51D0DC163C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eldorado.WebApi/Program.cs">
+    <Files>
+      <File FileName="Eldorado.WebApi/Controllers/CourierController.cs" Line="40" Column="1" />
+      <File FileName="Eldorado.WebApi/Middleware/CustomExceptionHandlerMiddleware.cs" Line="17" Column="11" />
+      <File FileName="Eldorado.WebApi/Program.cs" Line="69" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eldorado.Backend" expanded="True">
+            <Node name="Presentation" expanded="True">
+              <Node name="Eldorado.WebApi" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Middleware" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Eldorado.Backend" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/flac/Projects/Eldorado.Backend-master/Eldorado.WebApi/Controllers/CourierController.cs" relfile="Eldorado.WebApi/Controllers/CourierController.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentation.Eldorado.WebApi PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
